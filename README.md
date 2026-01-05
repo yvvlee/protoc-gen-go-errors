@@ -9,6 +9,6 @@
 go install github.com/go-kratos/kratos/cmd/protoc-gen-go-errors/v2@latest
 
 #替换为：
-go install git.jiuqu.tech/golang/protoc-plugin/cmd/protoc-gen-go-errors@latest
+go install github.com/yvvlee/protoc-gen-go-errors@latest
 
 ```
